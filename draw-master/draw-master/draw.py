@@ -14,7 +14,7 @@ pygame.draw.rect(screen, (0, 0, 0), (320, 395, 5, 8))
 pygame.draw.rect(screen, (0, 0, 0), (155, 230, 8, 5))
 pygame.draw.rect(screen, (0, 0, 0), (490, 230, 8, 5))
 
-pygame.draw.rect(screen, (0, 0, 0), (490, 230, 80, 50), 75)
+pygame.draw.rect(screen, (0, 0, 0), (490, 230, 80, 50), 2)
 
 # Make sure the window stays open until the user closes it
 run_flag = True
